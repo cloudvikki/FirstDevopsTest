@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-    name: SelfAzurePipeline
+  name: SelfAzurePipeline
 
 steps:
 - task: Maven@3
